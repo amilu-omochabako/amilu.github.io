@@ -1,10 +1,9 @@
 ---
 ---
 
-@import "minimal-mistakes/skins/default"; // ← これはスキンを維持するため
-@import "minimal-mistakes";               // ← 本体のスタイルを読み込む
+@import "minimal-mistakes/skins/default";
+@import "minimal-mistakes";              
 
-// Google Fonts の指定
 body {
   font-family: "M PLUS Rounded 1c", sans-serif;
 }
