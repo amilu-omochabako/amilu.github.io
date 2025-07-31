@@ -4,6 +4,9 @@
 @import "minimal-mistakes/skins/default";
 @import "minimal-mistakes";              
 
-body {
-  font-family: "M PLUS Rounded 1c", sans-serif;
+body,
+html,
+h1, h2, h3, h4, h5, h6,
+p, a, span, li, div {
+  font-family: "M PLUS Rounded 1c", sans-serif !important;
 }
