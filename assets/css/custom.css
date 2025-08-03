@@ -1,4 +1,14 @@
 @font-face {
+  font-family: 'MPLUSRounded1c';
+  src: url('/assets/fonts/MPLUSRounded1c-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'MPLUSRounded1c', sans-serif;
+}
+@font-face {
   font-family: "MPLUSRounded1c";
   src: url("/assets/fonts/MPLUSRounded1c-Regular.ttf") format("truetype");
 }
@@ -7,4 +17,4 @@ body {
   font-family: "MPLUSRounded1c", sans-serif;
 }
 
-body { background: red; }
+
